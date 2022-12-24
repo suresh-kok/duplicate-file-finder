@@ -1,0 +1,22 @@
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.csproj.AssemblyReference.cache
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.csproj.SuggestedBindingRedirects.cache
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\bin\Debug\Dupe Clear.exe.config
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\bin\Debug\Dupe Clear.exe.manifest
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\bin\Debug\Dupe Clear.application
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\bin\Debug\Dupe Clear.exe
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\bin\Debug\Dupe Clear.pdb
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\bin\Debug\GrabFolderIcon.dll
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\DupeClear.frmMain.resources
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\DupeClear.frmAbout.resources
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\DupeClear.frmAction.resources
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\DupeClear.frmErrors.resources
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\DupeClear.frmFileReplaceSkip.resources
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\DupeClear.frmFromSpecificFolder.resources
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\DupeClear.Properties.Resources.resources
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.csproj.GenerateResource.cache
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.csproj.CoreCompileInputs.cache
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.exe.manifest
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.application
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.csproj.CopyComplete
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.exe
+C:\Users\kanniyappans\Downloads\Dupe-Clear-master\Dupe-Clear-master\obj\Debug\Dupe Clear.pdb
